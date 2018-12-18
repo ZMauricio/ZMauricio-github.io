@@ -1,2 +1,2 @@
-# ZMauricio-github.io
+# zmauricio.github.io
 My Personal Page
